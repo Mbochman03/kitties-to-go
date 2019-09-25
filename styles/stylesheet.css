@@ -11,9 +11,11 @@ header  {
 }
 nav a {
   color: #464545;
-  font-size: .9rem;
+  font-size: 1rem;
   font-weight: bold;
   text-decoration: none;
+  padding: .75rem;
+  margin: .5em;
 }
 .nav-divider {
   display: inline-block;
@@ -59,7 +61,7 @@ aside {
   display: inline-block;
 }
 p {
-  font-size: .9rem;
+  font-size: 1.1rem;
   line-height: 1.7rem;
 }
 .intro-content {
